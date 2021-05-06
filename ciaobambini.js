@@ -1,0 +1,1 @@
+alert('Bugo sei un cornuto');
