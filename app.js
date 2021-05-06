@@ -11,3 +11,6 @@ class Test {
     this.test = id;
   }
 }
+
+class PinoPene {
+}
