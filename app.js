@@ -15,3 +15,6 @@ class Test {
 class PinoPenePane {
 }
 function porcammerda() {}
+
+
+const costanteGinoGenuino = 'GinoGenuinoMortaccitua'
