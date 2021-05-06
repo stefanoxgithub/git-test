@@ -1,6 +1,6 @@
 class App {
   static init() {
-    console.log('init app...');
+    console.log('init app... modificato da stefanox0023');
   }
 }
 
