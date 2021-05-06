@@ -12,5 +12,5 @@ class Test {
   }
 }
 
-class PinoPene {
+class PinoPenePane {
 }
