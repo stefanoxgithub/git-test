@@ -14,3 +14,4 @@ class Test {
 
 class PinoPenePane {
 }
+function ciao() {}
