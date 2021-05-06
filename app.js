@@ -5,3 +5,9 @@ class App {
 }
 
 App.init();
+
+class Test {
+  constructor(id) {
+    this.test = id;
+  }
+}
