@@ -9,9 +9,11 @@ class Apponastrappona {
 
 class Accent {
   constructor() {
-    console.log('Constructor running...');
+    console.log('Constructor running... la fessa e soreta');
   }
 }
+
+class Ciao {}
 
 App.init();
 
