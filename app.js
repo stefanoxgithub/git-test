@@ -3,7 +3,7 @@ class Apponastrappona {
     console.log('init app... modificato da stefanox0023');
   }
   mortacciVostra() {
-    console.log('Dio Porco Amen...');
+    console.log('Dio Porco...');
   }
 }
 
