@@ -9,7 +9,6 @@ class Apponastrappona {
 
 class Accent {
   constructor() {
-    console.log('Constructor running...');
   }
 }
 
